@@ -1,0 +1,18 @@
+{
+  "name": "stylelint-config-seedium",
+  "version": "1.0.0",
+  "description": "Seedium's StyleLint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelintconfig"
+  ],
+  "author": "Seedium Frontend Team",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint-processor-styled-components": "^1.10.0"
+  }
+}
